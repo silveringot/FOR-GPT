@@ -1,1 +1,1 @@
-# FOR-GPT
+This is for gpt use
